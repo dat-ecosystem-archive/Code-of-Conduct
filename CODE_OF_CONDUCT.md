@@ -151,7 +151,7 @@ We want to make sure that the community feels supported by the core team’s act
 In addition to the Code of Conduct outlined above - which we encourage you to comment on and suggest changes to - we are developing a formal governance strategy for the Dat core team.  This is an infinite game where rules and boundaries are expected to evolve as we grow. We cannot describe or elude to specific examples of inappropriate behavior. Community members should be able to understand how their behavior impacts others, and if not then ask first (or if in doubt - don’t say/do it).
 
 ## Attribution
-This Code of Conduct was generated via Mozilla Science Lab’s Working Open Workshop Code of Conduct exercise. Sections and some content is from the Ayo.js Code of Conduct and the OpenCon Code of Conduct. We thank the authors of these resources for their insight and thoughtful words.
+This Code of Conduct was generated via Mozilla Science Lab’s [Working Open Workshop Code of Conduct exercise](https://mozillascience.github.io/working-open-workshop/code_of_conduct/). Sections and some content is from the [Ayo.js Code of Conduct](https://github.com/ayojs/ayo/blob/latest/CODE_OF_CONDUCT.md) and the [OpenCon Code of Conduct](http://www.opencon2017.org/code_of_conduct). We thank the authors of these resources for their insight and thoughtful words.
 
 
 Some quotes that were helpful to us in writing this document: 
