@@ -4,19 +4,19 @@ We value respect, diversity, honesty, reflection, and growth. We strive to inten
 
 - Play and creativity around technology and problem solving (Have fun)
 
-- Team and community members should be aware of and proactively think about social implications of technology (Ask hard questions)
+- Team and community members who are aware of and proactively think about social implications of technology (Ask hard questions)
 
-- Valuing public good over fast growth or private profit (Cooperation and mutualism)
+- Public good over fast growth or private profit (Cooperation and mutualism)
 
 - Being a welcoming community with low barrier to entry (Welcome others)
 
-- Transparency, including about failures (Be open & honest)
+- Transparency, including failures (Be open & honest)
 
 - People working to understand the perspectives of others first (understand first, react or judge second)
 
-- Reflecting on ourselves and our work, check in honestly about whether our actions/process/projects are in line with our goals/values and if they need to change/update (Keep improving)
+- Reflection on ourselves and our work, check in honestly about whether our actions/process/projects are in line with our goals/values and if they need to change/update (Keep improving)
 
-- We encourage people to make creative, fun, impactful projects with Dat.
+- People making creative, fun, impactful projects with Dat.
 
 In order to support an atmosphere where that can happen, we encourage the following behaviors:
 
@@ -24,7 +24,7 @@ In order to support an atmosphere where that can happen, we encourage the follow
 
 - Actively recognizing, discussing, and preventing behavior that intimidates or harasses others (within or outside of the Dat community) including supporting each other to exclude individuals who continue to make others feel uncomfortable despite call-out.
 
-- Ask questions without embarrassment 
+- Asking questions without embarrassment 
 
 - Critical assessment of areas of weakness (without blaming others for our oversights or weak points)
 
@@ -44,9 +44,9 @@ In order to support an atmosphere where that can happen, we encourage the follow
 
 - Social enforcement of values (do not expect one person to be the “principal” keeping people in line)
 
-- Recognize and be proactive against privilege, systemic biases
+- Recognizing and being proactive against privilege, systemic biases
 
-- Question systematic assumptions (Who is in the room? Who has a seat at the table? Why?)
+- Questioning systematic assumptions (Who is in the room? Who has a seat at the table? Why?)
 
 There are behaviors that have no place in the Dat community. In order to support an atmosphere that will support a diverse community to discuss and explore exciting ideas, we need to be clear about what behaviors, words, and actions are unacceptable, including:
 
@@ -72,9 +72,9 @@ There are behaviors that have no place in the Dat community. In order to support
 
 The Dat project is governed by a Core Team of people who manage community, operations, project strategy, and fundraising. The Community Transparency Team is made up of a handful of core team and community members. External community partners may be brought in to advise the Community Team at that team’s discretion. Issues that are elevated to the Community Transparency Team may be discussed internally in the Dat project communication channels or publicly. Requests for anonymity will be honored, and anonymous reports may be made [TODO]
 
-We encourage reporting issues to the Community Transparency Team, even if the person reporting does not wish to pursue action. These report are logged and help the team deal with future issues that may arise. 
+We encourage reporting issues to the Community Transparency Team, even if the person reporting does not wish to pursue action. These reports are logged and help the team deal with future issues that may arise. 
 
-Here are the ways to contact the team:
+Here are ways to contact the team:
 
 - Chat (https://www.irccloud.com/irc/freenode/channel/dat)
 
@@ -103,7 +103,8 @@ The Community Transparency Team can not truly investigate or make a judgement on
 There are limits on the power that colleagues have to force behavioral change. We try to communicate clearly and be critical of ourselves and our communities to prioritize growth. We support colleagues in their process of personal and professional growth. However, our paramount responsibility is to meetBut any behavior that directly harms community members will be met with a response.
 
 Though difficult, we can use these events to become better colleagues and collaborators, creating a stronger community. We believe transparency is key to community growth. We hope to create a framework that supports community members to work towards long term growth and change, while ensuring responsibility is taken for inappropriate behavior.
-Other Community Standards
+
+#### Other Community Standards
 As a project on GitHub, this project is additionally covered by the GitHub Community Guidelines.
 
 Enforcement of those guidelines after violations overlapping with the above are the responsibility of the entities, and moderation may happen in any or all of the services/communities.
@@ -112,13 +113,13 @@ Enforcement of those guidelines after violations overlapping with the above are 
 #### Community Moderation/Initial Moderation
 Issues that arise in the community and are often initially moderated by members. 
 
-- Community member should feel empowered to let a person know what they did wrong ask them to correct behavior
+- Community member should feel empowered to let a person know what they did wrong and ask them to correct behavior
 
 - If a community member feels like they need back up, they should feel free to reach out to core team and Community Transparency Team members
 
 - The person should immediately stop behavior and edit/correct language
 
-- If this does not happen or behavior continues, contact Community Transparency team
+- If this does not happen or behavior continues, contact Community Transparency Team
 
 #### Community Transparency Team
 Issues that are brought directly to the Community Transparency Team:
@@ -148,7 +149,7 @@ The Community Transparency Team reserves full rights to skip any of these steps,
 #### Public Records of Discussion and Actions
 Any events or situations where the Dat team has taken action are recorded [TODO]
 We want to make sure that the community feels supported by the core team’s actions and values.
-In addition to the Code of Conduct outlined above - which we encourage you to comment on and suggest changes to - we are developing a formal governance strategy for the Dat core team.  This is an infinite game where rules and boundaries are expected to evolve as we grow. We cannot describe or elude to specific examples of inappropriate behavior. Community members should be able to understand how their behavior impacts others, and if not then ask first (or if in doubt - don’t say/do it).
+In addition to the Code of Conduct outlined above - which we encourage you to comment on and suggest changes to - we are developing a formal governance strategy for the Dat core team.  This is an infinite game where rules and boundaries are expected to evolve as we grow. We cannot describe or elude to specific examples of inappropriate behavior. Community members should be able to understand how their behavior impacts others, and if not, then ask first (or if in doubt - don’t say/do it).
 
 ## Attribution
 This Code of Conduct was generated via Mozilla Science Lab’s [Working Open Workshop Code of Conduct exercise](https://mozillascience.github.io/working-open-workshop/code_of_conduct/). Sections and some content is from the [Ayo.js Code of Conduct](https://github.com/ayojs/ayo/blob/latest/CODE_OF_CONDUCT.md) and the [OpenCon Code of Conduct](http://www.opencon2017.org/code_of_conduct). We thank the authors of these resources for their insight and thoughtful words.
